@@ -1,2 +1,4 @@
 # ios_hello_world
-The hello world ios app
+This is my Hello World App
+
+This is my first repository app!!
